@@ -1,7 +1,7 @@
 hey there, i'm catherine! 
 
 some things about me: 
-- cs + enviro student @ ucla
+- studying cs + enviro @ ucla
 - learning about swe and pm positions 
 - always looking for social impact projects [especially sustainability or education]
 - probably reading a book or writing something 
